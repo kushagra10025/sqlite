@@ -1,4 +1,4 @@
-> This repo is just re-upload of amalgamation from sqlite download page.
+> This repo is just re-upload of amalgamation from sqlite download page. v3.49.1
 
 <h1 align="center">SQLite Source Repository</h1>
 
